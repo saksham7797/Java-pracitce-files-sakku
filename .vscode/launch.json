@@ -1,0 +1,603 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9b82f1d26f54b651d54f124e71574165393ff27f
+            "name": "FactorialByFunctions",
+            "request": "launch",
+            "mainClass": "FactorialByFunctions",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+=======
+>>>>>>> parent of 48a6bdd (made factorial)
+=======
+>>>>>>> parent of 48a6bdd (made factorial)
+=======
+>>>>>>> parent of 48a6bdd (made factorial)
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "SimpleCalculator",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+=======
+>>>>>>> parent of ad8767f (Update launch.json)
+            "name": "Grades",
+            "request": "launch",
+            "mainClass": "Grades",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "VotingAge",
+            "request": "launch",
+            "mainClass": "VotingAge",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOdd",
+            "request": "launch",
+            "mainClass": "EvenOrOdd",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "MaxAndMin",
+            "request": "launch",
+            "mainClass": "MaxAndMin",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "Case1",
+            "request": "launch",
+            "mainClass": "Case1",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "VowelVsConsonants",
+            "request": "launch",
+            "mainClass": "VowelVsConsonants",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAString",
+            "request": "launch",
+            "mainClass": "ReverseAString",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "AverageMarks",
+            "request": "launch",
+            "mainClass": "AverageMarks",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "CGPACalculator",
+            "request": "launch",
+            "mainClass": "CGPACalculator",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "CommissionPercentage",
+            "request": "launch",
+            "mainClass": "CommissionPercentage",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "DistanceBetween2Points",
+            "request": "launch",
+            "mainClass": "DistanceBetween2Points",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "Discount",
+            "request": "launch",
+            "mainClass": "Discount",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "AvgOfNNum",
+            "request": "launch",
+            "mainClass": "AvgOfNNum",
+            "projectName": "Java pracitce files_8ed9b61e"
+        },
+        {
+            "type": "java",
+            "name": "ElectricityBills",
+            "request": "launch",
+            "mainClass": "ElectricityBills",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "EnchancedLargestNum",
+            "request": "launch",
+            "mainClass": "EnchancedLargestNum",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "MaxTill0",
+            "request": "launch",
+            "mainClass": "MaxTill0",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "AddingTill0",
+            "request": "launch",
+            "mainClass": "AddingTill0",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSequence2",
+            "request": "launch",
+            "mainClass": "FibonacciSequence2",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "TSAOfCube",
+            "request": "launch",
+            "mainClass": "TSAOfCube",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "VolumeOfCylinder",
+            "request": "launch",
+            "mainClass": "VolumeOfCylinder",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "VolumeOfPrism",
+            "request": "launch",
+            "mainClass": "VolumeOfPrism",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "VolumeOfCone",
+            "request": "launch",
+            "mainClass": "VolumeOfCone",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "PerimeterOfSquare",
+            "request": "launch",
+            "mainClass": "PerimeterOfSquare",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "PerimeterOfRectangle",
+            "request": "launch",
+            "mainClass": "PerimeterOfRectangle",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "PerimeterOfParallelogram",
+            "request": "launch",
+            "mainClass": "PerimeterOfParallelogram",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "PerimeterOfTriangle",
+            "request": "launch",
+            "mainClass": "PerimeterOfTriangle",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "CircumferenceOfCircle",
+            "request": "launch",
+            "mainClass": "CircumferenceOfCircle",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfEqTriangle",
+            "request": "launch",
+            "mainClass": "AreaOfEqTriangle",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfRhombus",
+            "request": "launch",
+            "mainClass": "AreaOfRhombus",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfParallelogram",
+            "request": "launch",
+            "mainClass": "AreaOfParallelogram",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfRectangle",
+            "request": "launch",
+            "mainClass": "AreaOfRectangle",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfTriangle",
+            "request": "launch",
+            "mainClass": "AreaOfTriangle",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "InrToUsd",
+            "request": "launch",
+            "mainClass": "InrToUsd",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "InterestCalculator",
+            "request": "launch",
+            "mainClass": "InterestCalculator",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "Greetings",
+            "request": "launch",
+            "mainClass": "Greetings",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "AddingTillX",
+            "request": "launch",
+            "mainClass": "AddingTillX",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "Lcm",
+            "request": "launch",
+            "mainClass": "Lcm",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "Hcf",
+            "request": "launch",
+            "mainClass": "Hcf",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "HcfAndLcm",
+            "request": "launch",
+            "mainClass": "HcfAndLcm",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "Factors",
+            "request": "launch",
+            "mainClass": "Factors",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "SimpleCalculator",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "TableOfNum",
+            "request": "launch",
+            "mainClass": "TableOfNum",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "Java pracitce files_c61b8926"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "SimpleCalculator",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNum",
+            "request": "launch",
+            "mainClass": "ArmstrongNum",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumber",
+            "request": "launch",
+            "mainClass": "PalindromeNumber",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "TempratuteConverter",
+            "request": "launch",
+            "mainClass": "TempratuteConverter",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "CountingOccurences",
+            "request": "launch",
+            "mainClass": "CountingOccurences",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSequence",
+            "request": "launch",
+            "mainClass": "FibonacciSequence",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "AlphabetCase",
+            "request": "launch",
+            "mainClass": "AlphabetCase",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "Muku",
+            "request": "launch",
+            "mainClass": "Muku",
+            "projectName": "Java projects_cd523018"
+        },
+        {
+            "type": "java",
+            "name": "Hehe",
+            "request": "launch",
+            "mainClass": "Hehe",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Trigno",
+            "request": "launch",
+            "mainClass": "Trigno",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "TrignoSolver",
+            "request": "launch",
+            "mainClass": "TrignoSolver",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfTraingle",
+            "request": "launch",
+            "mainClass": "AreaOfTraingle",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Scanner1",
+            "request": "launch",
+            "mainClass": "Scanner1",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "BufferReader3",
+            "request": "launch",
+            "mainClass": "BufferReader3",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "BufferReader1",
+            "request": "launch",
+            "mainClass": "BufferReader1",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "muku",
+            "request": "launch",
+            "mainClass": "muku",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Alias",
+            "request": "launch",
+            "mainClass": "Alias",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Aliasnarrowing",
+            "request": "launch",
+            "mainClass": "Aliasnarrowing",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Andoperator",
+            "request": "launch",
+            "mainClass": "Andoperator",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Andoperator2",
+            "request": "launch",
+            "mainClass": "Andoperator2",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Areabyuser",
+            "request": "launch",
+            "mainClass": "Areabyuser",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Byteadd",
+            "request": "launch",
+            "mainClass": "Byteadd",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Examples",
+            "request": "launch",
+            "mainClass": "Examples",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Overflow",
+            "request": "launch",
+            "mainClass": "Overflow",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "S",
+            "request": "launch",
+            "mainClass": "S",
+            "projectName": "Java projects_1c31c818"
+        },
+        {
+            "type": "java",
+            "name": "Userdefineddata",
+            "request": "launch",
+            "mainClass": "Userdefineddata",
+            "projectName": "Java projects_1c31c818"
+        }
+    ]
+}
