@@ -6,8 +6,8 @@ public class Factors {
             int num1 = scan.nextInt();
             System.out.print("Enter the number: ");
             int num2 = scan.nextInt();
-            int i,j,fac,mul;
-            mul = 1;
+            int i,j;
+            
 
                 for (i = 1; i <= num1 / 2 + num1/1; i++) {
                     if (num1 % i == 0){
@@ -25,15 +25,7 @@ public class Factors {
                         
                     }
                 }
-                System.out.println(" ");
-
-
-                if( i == j){
-                    fac = j;
-                    mul = fac*mul;
-                    
-                }System.out.println(mul);
-                
+                System.out.println(" ");                
             
         }
     }
