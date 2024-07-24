@@ -16,8 +16,7 @@ public class MatrixApplication {
     }
 
     static void fun(int[][] arr, int q, int w){
-        Scanner scan = new Scanner(System.in);
-            
+        try (Scanner scan = new Scanner(System.in)) {
             for (int[] temp : arr) {
                 System.out.println("The initial array is: " + Arrays.toString(temp));
             }
@@ -37,19 +36,19 @@ public class MatrixApplication {
             for (int i = 0; i < q; i++) {
                 arr[i][b]++;
             }
+        }
             
-
             for (int[] temp : arr) {
                 System.out.println(Arrays.toString(temp));
             }
             int temp = 0;
-            for (int i = 0; i < arr.length; i++) {
-                for (int j = 0; j < arr.length; j++) {
-                    
-                    if(arr[i][j] % 2 != 0){
-                        temp++;
-                    }
+        for (int[] arr1 : arr) {
+            for (int j = 0; j < arr.length; j++) {
+                if (arr1[j] % 2 != 0) {
+                    temp++;
                 }
-            }System.out.println(temp);
+            }
+        }
+System.out.println(temp);
     }
 }
